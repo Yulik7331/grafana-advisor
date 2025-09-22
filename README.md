@@ -1,0 +1,2 @@
+# grafana-advisor
+grafana+advisor
